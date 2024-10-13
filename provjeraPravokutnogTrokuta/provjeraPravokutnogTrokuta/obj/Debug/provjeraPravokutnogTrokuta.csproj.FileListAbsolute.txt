@@ -1,0 +1,7 @@
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\bin\Debug\provjeraPravokutnogTrokuta.exe.config
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\bin\Debug\provjeraPravokutnogTrokuta.exe
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\bin\Debug\provjeraPravokutnogTrokuta.pdb
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.csproj.AssemblyReference.cache
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.csproj.CoreCompileInputs.cache
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.exe
+C:\Users\Tepob\source\repos\provjeraPravokutnogTrokuta\provjeraPravokutnogTrokuta\obj\Debug\provjeraPravokutnogTrokuta.pdb
